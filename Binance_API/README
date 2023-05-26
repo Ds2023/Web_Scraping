@@ -1,1 +1,2 @@
-
+Scraped the Binance website using RapidAPI.
+The idea was to fetch data on daily movers as well as qiuckly extract crucial info on any crypto pairs.
